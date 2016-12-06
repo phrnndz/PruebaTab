@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="one">Terraza</string>
+    <string name="two">Salon</string>
+    <string name="three">Patio</string>
+</resources>
